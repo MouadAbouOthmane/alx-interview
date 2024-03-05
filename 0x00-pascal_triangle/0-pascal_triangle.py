@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def index_exists(ls, i):
     """
     check if index is exist in array
