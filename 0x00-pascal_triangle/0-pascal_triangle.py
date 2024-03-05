@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""0. Pascal's Triangle"""
 
 def index_exists(ls, i):
     """
