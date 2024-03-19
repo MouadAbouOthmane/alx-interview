@@ -3,6 +3,7 @@
 Solves the lock boxes puzzle
 """
 
+
 def canUnlockAll(boxes):
     """
     Check if all boxes can be opened
